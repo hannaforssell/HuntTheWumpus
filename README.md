@@ -27,7 +27,3 @@ I have also added three new commands:
 
 #### Lighthouse
 <img src="validation/validation_lighthouse.png">
-
-#### Validation
-<img src="validation/validation_html.png">
-<img src="validation/validation_css.png">
