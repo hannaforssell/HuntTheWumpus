@@ -1,5 +1,6 @@
 # [HUNT THE WUMPUS](https://medieinstitutet.github.io/fed22d-js-grundkurs-2-wumpus-hannaforssell/)
 ### Created by: Hanna Forssell.
+v1.0.0
 
 ### Index
 1. Description
